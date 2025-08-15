@@ -1,0 +1,1 @@
+import{r as o}from"./index.CMQ3OGCn.js";import{m as c,C as m}from"./context.PrEGKcmW.js";import{a as i}from"./react.DB6PwfwN.js";function p(){const s=o.useId(),a=o.useRef(0),r=i(c);return{present(e){const u=`${s}-${a.current++}`,n={...e,id:e.id??u};return r(t=>[...t,n]),()=>{r(t=>t.filter(d=>d.id!==n.id))}}}}function x(){return o.useContext(m)}export{x as a,p as u};

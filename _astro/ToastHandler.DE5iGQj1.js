@@ -1,1 +1,0 @@
-import{r as t}from"./index.Wp2u197Z.js";import{B as n}from"./react-toastify.esm.BjLG7rXT.js";import"./clsx.B-dksMZM.js";function s(){return t.useEffect(()=>{const e=o=>{const{message:r}=o.detail;n.error(r)};return window.addEventListener("code-copy-fail",e),()=>{window.removeEventListener("code-copy-fail",e)}},[]),null}export{s as ToastHandler};
